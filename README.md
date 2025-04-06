@@ -15,10 +15,13 @@ This project performs financial analysis of Starbucks using a multimodal RAG (Re
 4. Place PDFs in `/docs` and audio files in `/audio`
 ## File Structure
 /images/ - Extracted images from financial PDFs
+
 /transcript/ - Audio transcripts (transcription.txt)
+
 /docs/ - Original PDF documents
+
 /audio/ - Audio explanation files
-main.py - Main processing script
+
 requirements.txt - Python dependencies
 ## Dependencies
 Gemini API for generative tasks
