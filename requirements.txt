@@ -1,0 +1,11 @@
+gemini-api
+whisper
+transformers
+sentence-transformers
+pytorch
+torchvision
+pillow
+numpy
+scipy
+pandas
+python-dotenv
