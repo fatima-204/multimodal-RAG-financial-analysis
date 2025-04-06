@@ -22,7 +22,10 @@ main.py - Main processing script
 requirements.txt - Python dependencies
 ## Dependencies
 Gemini API for generative tasks
+
 Whisper model for audio transcription
+
 Cosine similarity for relevant chunk retrieval
+
 
 This README covers all the components you mentioned (multimodal approach, PDF-to-images conversion, Whisper transcripts, Gemini API, and cosine similarity) while providing clear instructions for setup and usage. The requirements.txt includes all the likely dependencies needed for such a project.
